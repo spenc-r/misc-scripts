@@ -17,7 +17,7 @@ chmod +x aws-sso-token-checker.sh
 
 To add this script to your PATH:
 ```bash
-mv aws-sso-token-checker.sh /usr/local/bin/aws-sso-token-checker
+sudo mv aws-sso-token-checker.sh /usr/local/bin/aws-sso-token-checker
 ```
 
 To run this script from anywhere:
